@@ -9,3 +9,7 @@ This part included computation of gene expression, differentially expressed gene
 
 ## Reference
 > Wang H, Xu D, Wang S, Wang A, Lei L, Jiang F, Yang B, Yuan L, Chen R, Zhang Y, Fan W. Chromosome-scale *Amaranthus tricolor* genome provides insights into the evolution of the genus *Amaranthus* and the mechanism of betalain biosynthesis. DNA Res. 2022 Dec 6:dsac050. [https://doi.org/10.1093/dnares/dsac050](https://doi.org/10.1093/dnares/dsac050)
+
+
+## Data Sets
+Our data can be accessed on [the FTP](http://ftp.agis.org.cn:8888/~fanwei/Amaranthus_tricolor/) of AGIS.
